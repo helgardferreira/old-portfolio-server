@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.4a9fd1b1.chunk.js",
+    "main.js.map": "/static/js/main.4a9fd1b1.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.cfda97ca.js",
+    "runtime~main.js.map": "/static/js/runtime~main.cfda97ca.js.map",
+    "static/css/2.bd24442a.chunk.css": "/static/css/2.bd24442a.chunk.css",
+    "static/js/2.90c2003c.chunk.js": "/static/js/2.90c2003c.chunk.js",
+    "static/js/2.90c2003c.chunk.js.map": "/static/js/2.90c2003c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.43d9ec7c974b812a2d6c3d8ea4203217.js": "/precache-manifest.43d9ec7c974b812a2d6c3d8ea4203217.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bd24442a.chunk.css.map": "/static/css/2.bd24442a.chunk.css.map",
+    "static/media/TopoInverse.svg": "/static/media/TopoInverse.9c10de57.svg",
+    "static/media/arcpay-mock.jpg": "/static/media/arcpay-mock.8e7a5f16.jpg",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo-circle.svg": "/static/media/logo-circle.2c468b78.svg",
+    "static/media/logo.svg": "/static/media/logo.78a147e3.svg",
+    "static/media/pdm-mock.jpg": "/static/media/pdm-mock.df38a05e.jpg",
+    "static/media/index.css": "/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/triptraka-mock.jpg": "/static/media/triptraka-mock.00dc7cda.jpg"
+  }
+}
